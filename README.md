@@ -1,2 +1,5 @@
-# Taller-POO-y-modificadores-de-acceso-en-Python
-Repositorio para el taller preparativo para el primer parcial de POO
+Autor: Sergio Gabriel Chaves Mosquera
+
+Asignación: Taller de Parcial 1
+
+Descripción: En este repositorio se encuentran las respuestas al taller previo al primer parcial del curso
